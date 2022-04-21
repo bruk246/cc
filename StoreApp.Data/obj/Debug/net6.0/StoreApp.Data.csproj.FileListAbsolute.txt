@@ -1,0 +1,15 @@
+/Users/brukgella/Projects/StoreAPP/StoreApp.Data/obj/Debug/net6.0/StoreApp.Data.csproj.AssemblyReference.cache
+/Users/brukgella/Projects/StoreAPP/StoreApp.Data/obj/Debug/net6.0/StoreApp.Data.GeneratedMSBuildEditorConfig.editorconfig
+/Users/brukgella/Projects/StoreAPP/StoreApp.Data/obj/Debug/net6.0/StoreApp.Data.AssemblyInfoInputs.cache
+/Users/brukgella/Projects/StoreAPP/StoreApp.Data/obj/Debug/net6.0/StoreApp.Data.AssemblyInfo.cs
+/Users/brukgella/Projects/StoreAPP/StoreApp.Data/obj/Debug/net6.0/StoreApp.Data.csproj.CoreCompileInputs.cache
+/Users/brukgella/Projects/StoreAPP/StoreApp.Data/bin/Debug/net6.0/StoreApp.Data.deps.json
+/Users/brukgella/Projects/StoreAPP/StoreApp.Data/bin/Debug/net6.0/StoreApp.Data.dll
+/Users/brukgella/Projects/StoreAPP/StoreApp.Data/bin/Debug/net6.0/StoreApp.Data.pdb
+/Users/brukgella/Projects/StoreAPP/StoreApp.Data/bin/Debug/net6.0/StoreApp.Logic.dll
+/Users/brukgella/Projects/StoreAPP/StoreApp.Data/bin/Debug/net6.0/StoreApp.Logic.pdb
+/Users/brukgella/Projects/StoreAPP/StoreApp.Data/obj/Debug/net6.0/StoreApp.Data.csproj.CopyComplete
+/Users/brukgella/Projects/StoreAPP/StoreApp.Data/obj/Debug/net6.0/StoreApp.Data.dll
+/Users/brukgella/Projects/StoreAPP/StoreApp.Data/obj/Debug/net6.0/refint/StoreApp.Data.dll
+/Users/brukgella/Projects/StoreAPP/StoreApp.Data/obj/Debug/net6.0/StoreApp.Data.pdb
+/Users/brukgella/Projects/StoreAPP/StoreApp.Data/obj/Debug/net6.0/ref/StoreApp.Data.dll

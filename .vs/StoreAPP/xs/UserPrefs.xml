@@ -1,0 +1,6 @@
+﻿<Properties StartupConfiguration="{F2FD35A0-31F6-40D1-B357-2839B2DD94FF}|Default">
+  <MonoDevelop.Ide.ItemProperties.StoreApp PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.StoreApp.Logic FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.StoreApp.Data FirstBuild="True" />
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,25 @@
+﻿using System;
+
+namespace StoreApp.Logic
+{
+    public class Product
+    {
+        public int productId;
+        public string productName;
+        public string productCatagory;
+
+        public Product()
+        { }
+
+        public Product(int ProductId, string ProductNmae, string ProductCatagory)
+        {
+            this.productId = ProductId;
+            this.productName = ProductNmae;
+            this.productCatagory = ProductCatagory;
+        }
+
+
+    }
+
+
+}
